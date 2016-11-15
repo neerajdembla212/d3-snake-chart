@@ -1,6 +1,3 @@
-/**
- * Created by GS-1333 on 09-09-2016.
- */
 function snakeChart(data, chartContainer){
 
 var boxWidthPercent = 10; // in percentage
